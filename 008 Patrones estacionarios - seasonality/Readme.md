@@ -46,4 +46,3 @@ La gráficas de retornos en lineas y barras deben quedar similar a la siguiente 
 ![Analisis](Seasonality-analisys.png)
 
 
-El objetivo final es 
